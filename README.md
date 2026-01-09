@@ -1,17 +1,17 @@
 # ZEUS - Solana Trading Bot
 
-Bot de trading para Pump.fun na Solana.
+Trading bot for Pump.fun on Solana.
 
 ## Quick Start
-1. Execute o SQL no Supabase
+1. Run the SQL schema on Supabase
 2. `cd zeus-bot && npm install && npm start`
 3. `cd zeus-hub && vercel`
 
 ## Features
-- Auto-gera wallet
-- Detecta tokens Pump.fun
-- Dashboard real-time
-- API REST
+- Auto-generates wallet
+- Detects Pump.fun tokens
+- Real-time dashboard
+- REST API
 
-## Credenciais
-Ja configuradas no .env
+## Credentials
+Already configured in .env
