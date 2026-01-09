@@ -1,0 +1,5 @@
+{
+  "buildCommand": "",
+  "outputDirectory": "zeus-hub",
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}
